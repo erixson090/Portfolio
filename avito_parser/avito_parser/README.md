@@ -62,7 +62,7 @@ python parser.py
 
 ## 📤 Пример результата
 
-![Результат работы парсера]([avito_parser/avito_parser/parsres.JPG](https://github.com/erixson090/Portfolio/blob/main/parses.JPG))
+![Результат работы парсера](https://github.com/erixson090/Portfolio/blob/main/parses.JPG?raw=true)
 
 {
   "products": [
