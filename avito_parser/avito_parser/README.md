@@ -38,7 +38,7 @@ AdsPower → 9Proxy → Crawl4AI → Ollama → JSON
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/ваш_никнейм/avito-parser.git
+git clone https://github.com/erixson090/avito-parser.git
 cd avito-parser
 
 ```
