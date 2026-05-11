@@ -62,6 +62,8 @@ python parser.py
 
 ## 📤 Пример результата
 
+![Результат работы парсера](screenshots/result.png)
+
 {
   "products": [
     {"title": "iPhone 13 Pro Max, 256 ГБ", "price_rub": 29500},
