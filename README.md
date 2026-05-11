@@ -31,7 +31,7 @@
 
 **Стэк:** Python, Crawl4AI, AdsPower API, 9Proxy, Ollama (llama3.2)
 
-📸 [Скриншот результата](avito_parser/screenshots/result.png)
+📸 [Скриншот результата](parsres.JPG)
 
 ---
 
